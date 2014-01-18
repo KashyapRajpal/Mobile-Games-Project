@@ -1,0 +1,16 @@
+MAIN GAME FEATURES
+
+Endless runner with Fast Pace movement
+Hack & Slash style for combat with Quicktime events
+2D Physics with Rigidbodies and Ragdolls.
+Level and environment explosion/destruction.
+Combat System with powerups, skins, vehicles, and different characters
+AI Enemies ( Melee, Range, Flying)
+AI Final Bosses
+Procedural Level Generation with Level Traps
+Particles and Visual Effects
+Inventory with support for Powerups/ Upgrades, skins and characters
+Basic UI ( MainMenu, Pause, About, Settings, Intro,..etc)
+Device Compatiblity with iOS, Android, and VITA( if we have a Unity3D license)
+Audio System ( Music and Sounds )
+Social Integration( GREE, Facebook and twitter ).
